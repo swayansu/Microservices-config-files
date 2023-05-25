@@ -1,6 +1,6 @@
-  spring:
-    application:
-      name: USER-SERVICEss
+ spring:
+   application:
+     name: USER-SERVICEss
 
 eureka:
   instance:
